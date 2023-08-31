@@ -41,6 +41,8 @@ python ./test.py checkfolder .
 ```
 ### Note: Tests.py wasn't tested on any Python version other than 3.11 and it would not work in Python 3.5
 
+Also the source code of tests is kinda bad, but it does even more than this project could ever need
+
 ## Obfuscation
 
 **Huge thanks to [ComradeBypass](https://github.com/ComradeBypass) for creating [Comfuscate](https://github.com/ComradeBypass/Comfuscate), the obfuscator that i used to obfuscate the code.**
