@@ -3,6 +3,7 @@
 
  This scripts can contain errors and it is WIP application. It is also probably will become useless when Geometry Dash 2.2 come out
 ## **Quick Start**
+
 Dependencies:
 - Only [Python 3.5+](https://www.python.org/) is required. Everything else is pre-installed in Python
 
@@ -35,7 +36,7 @@ To check if everything works as intented you can run [test.py](/tests/test.py). 
 python ./test.py help
 ```
 
-And if yoy want to check every pre-made test case you can run every pre-made test case using:
+And if you want to check every pre-made test case you can run every pre-made test case using:
 ```console
 python ./test.py checkfolder .
 ```
